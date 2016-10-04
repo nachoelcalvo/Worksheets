@@ -16,6 +16,4 @@ object sheet2 {
   1.+(5)
 
   //Comment
-
-  //2nd development check-ins
 }
