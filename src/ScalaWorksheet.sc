@@ -12,4 +12,6 @@ object sheet2 {
    1 to 5
 
   "ABC".permutations.toArray
+
+  1.+(5)
 }
