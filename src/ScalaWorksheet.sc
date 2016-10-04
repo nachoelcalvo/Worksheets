@@ -7,4 +7,6 @@ object sheet2 {
 
   ('A' + 'B' + 'C').toChar
 
+  "ABC".sum.toInt
+
 }
